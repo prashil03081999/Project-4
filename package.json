@@ -1,0 +1,17 @@
+{
+  "name": "dance-academy",
+  "version": "1.0.0",
+  "description": "Popular dance website which covers all forms of dance.",
+  "main": "app.js",
+  "scripts": {
+    "nodemon": "nodemon app.js"
+  },
+  "author": "Pr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
